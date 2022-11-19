@@ -1,0 +1,684 @@
+@media (max-width: 575.98px) {
+  .nav-style {
+    display: block;
+  }
+  .nav .nav-links {
+    position: relative;
+    height: 100%;
+    padding: 0;
+  }
+  #main_menu .navbar_2 {
+    margin-left: 0px;
+  }
+  #main_menu .nav-link-2 {
+    padding: 16px 0px;
+  }
+  #main_menu .navbar_mobile_css {
+    background-color: var(--brand_red);
+    width: 60%;
+    top: 59px;
+    right: 0px;
+    position: fixed;
+  }
+  #main_menu .navbar_mobile_css a {
+    color: white;
+    font-size: 14px;
+  }
+  #main_menu .navbar_mobile_css a:hover {
+    background-color: #0bb4da;
+  }
+  #home_section_one .main_div .img_div {
+    text-align: center;
+  }
+  #home_section_one .main_div .img_div img {
+    width: 90%;
+  }
+  #home_section_one .main_div .left_div {
+    padding-left: 1rem;
+    padding-bottom: 15px;
+  }
+  #home_section_one .main_div .left_div h3 {
+    font-size: 21px;
+    padding-top: 20px;
+  }
+  #home_section_one .main_div .left_div h4 {
+    font-size: 20px;
+  }
+  #home_section_one .main_div .left_div p {
+    font-size: 15px;
+  }
+  #home_section_one .main_div .left_div a {
+    padding: 5px 15px;
+  }
+  #home_section_one .free_seminar {
+    position: unset;
+    margin-top: 10px;
+    bottom: unset;
+  }
+  #home_section_one .free_seminar a {
+    padding: 5px 10px;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  #home_section_two {
+    padding-top: 20px;
+    padding-bottom: 10px;
+  }
+  #home_section_two h2 {
+    font-size: 28px;
+  }
+  #home_section_two h5 {
+    font-size: 20px;
+  }
+  #home_section_two a {
+    padding: 5px 8px;
+  }
+  #home_section_two .card-title {
+    margin-bottom: 0.3rem;
+  }
+  #home_section_two .course {
+    margin-top: 15px;
+  }
+  #home_section_two .course .content_div {
+    padding: 5px 15px;
+  }
+  #home_section_two .course .content_div .course_footer {
+    display: block;
+  }
+  #home_section_two .course .content_div .course_footer .footer_admit {
+    padding-left: unset;
+  }
+  #home_section_three h2 {
+    font-size: 28px;
+  }
+  #home_section_three .facility-row-inside .facility-div-title {
+    font-size: 16px;
+  }
+  #all_course_section_one {
+    padding-top: 20px;
+  }
+  #all_course_section_one h2 {
+    font-size: 28px;
+  }
+  #all_course_section_one h5 {
+    font-size: 20px;
+  }
+  #all_course_section_one a {
+    padding: 5px 8px;
+  }
+  #all_course_section_one .card-title {
+    margin-bottom: 0.3rem;
+  }
+  #all_course_section_one .course {
+    margin-top: 15px;
+  }
+  #all_course_section_one .course .content_div {
+    padding: 5px 15px;
+  }
+  #all_course_section_one .course .content_div .course_footer {
+    display: block;
+  }
+  #all_course_section_one .course .content_div .course_footer .footer_admit {
+    padding-left: unset;
+  }
+  #all_course_section_one .our_instructor .instructor_inner_div {
+    width: 91%;
+    margin: 0px auto;
+  }
+  #header_top {
+    padding: 10px 0px;
+    width: 27px;
+  }
+  #header_top a {
+    font-size: 17px;
+    padding: 4px 0px;
+  }
+  #subscirbe_section_div {
+    padding-top: unset;
+  }
+  #subscirbe_section_div .img_div {
+    text-align: center;
+  }
+  #subscirbe_section_div .img_div img {
+    width: 80%;
+    margin: auto;
+  }
+  #subscirbe_section_div .newsletter {
+    padding-top: 0px;
+    padding-bottom: 15px;
+  }
+  #subscirbe_section_div .newsletter h5 {
+    font-size: 17px;
+  }
+  #subscirbe_section_div .newsletter .form_div {
+    width: 90%;
+    margin-bottom: 8px;
+  }
+  #subscirbe_section_div .newsletter .other_social_link {
+    padding: unset;
+  }
+  #subscirbe_section_div .newsletter .other_social_link div a {
+    font-size: 14px;
+    padding: 5px 8px 5px 5px;
+  }
+  #about_section_one {
+    min-height: 100px;
+  }
+  #main_footer .logo_div {
+    margin: unset;
+  }
+  #main_footer .footer_link_bottom .footer_link .contact_div {
+    width: 100%;
+    padding-left: 40px;
+  }
+  #main_footer .footer_link_bottom .footer_link .important_link {
+    width: 100%;
+    padding-left: 40px;
+  }
+  #main_footer .footer_link_bottom .footer_link .social_meida_link {
+    width: 100%;
+    padding-left: 40px;
+  }
+  #main_footer .footer_link_bottom .footer_link .address_div {
+    width: 100%;
+    padding-left: 40px;
+    padding-top: 7px;
+  }
+  #main_footer .footer_link_bottom ul {
+    font-size: 14px;
+  }
+  #copyright {
+    font-size: 15px;
+  }
+  #map {
+    width: 95%;
+    margin: 10px auto;
+  }
+  #login_section {
+    padding: 0px 15px;
+  }
+  #login_section img {
+    height: 80px;
+    width: 80px;
+  }
+  #login_section .footer_login {
+    flex-wrap: wrap;
+  }
+  #login_section .footer_login a {
+    padding-left: 0px;
+  }
+  #blog_section_one h2 {
+    margin-bottom: unset;
+  }
+  #blog_section_one .blog_page_heading {
+    padding: 1rem 0px;
+  }
+  #blog_section_one .blog_page_heading h4 {
+    font-size: 1.25rem;
+  }
+  #blog_section_one .blog_page_heading h5 {
+    font-size: 1rem;
+  }
+  #blog_section_one .text_div .blog_head {
+    padding-left: 5px;
+  }
+  #blog_section_one .text_div .blog_text {
+    padding-left: 5px;
+  }
+  #blog_section_one .blog_right_top {
+    padding: 1rem 0rem 1rem 2rem;
+  }
+  #blog_section_one .blog_right_top .blog_right_side {
+    border: unset;
+    padding-right: 1.5rem;
+  }
+  #contact_section_one {
+    padding: unset;
+  }
+  #contact_section_one .header_text {
+    padding-bottom: 1rem;
+    font-size: 15px;
+  }
+  #contact_section_one h2 {
+    padding-top: 20px;
+    font-size: 24px;
+  }
+  #contact_section_one h4 {
+    font-size: 18px;
+  }
+  #contact_section_one .map_location {
+    margin-top: 15px;
+  }
+  #contact_section_one .social_link {
+    margin-top: 15px;
+  }
+  #contact_section_one .all_div {
+    height: unset;
+  }
+  #contact_section_one .contact_time {
+    margin: 20px auto;
+    width: 90%;
+    font-size: 17px;
+  }
+  #contact_section_one .ask_question .ask_question_text {
+    margin-top: unset;
+    margin-bottom: 15px;
+    font-size: 18px;
+    padding: 30px 20px 30px 20px;
+  }
+  #contact_section_one .description_share a {
+    font-size: 35px;
+  }
+  #course_section_two .course_type {
+    font-size: 24px;
+  }
+  #course_section_two .course_column_one .course_detail .img_div img {
+    width: 100%;
+    height: 180px;
+  }
+  #course_section_two .course_column_one .course_description {
+    padding: 5px 5px ;
+  }
+  #course_section_two .course_column_one .course_learn {
+    padding: 5px 5px ;
+  }
+  #course_section_two .course_column_one .course_learn h2 {
+    font-size: 22px;
+  }
+  #course_section_two .course_column_two {
+    padding: 5px 20px;
+  }
+  #course_section_two .course_column_two .left_div .buy_price {
+    font-size: 24px;
+  }
+  #course_section_two .course_column_two .left_div .buy_enroll .btn-style {
+    width: 70%;
+  }
+  #course_section_two .course_column_two .left_div h4 {
+    font-size: 20px;
+  }
+  #course_section_two .course_column_two .left_div li {
+    font-size: 16px;
+  }
+  #course_section_three h2 {
+    font-size: 28px;
+  }
+  #course_section_three .content_div {
+    padding: 12px;
+  }
+  #course_section_four {
+    padding: 15px 25px;
+  }
+  #blog_page_section_one .blog_left_side {
+    padding-left: 45px;
+    padding-right: 0px;
+  }
+  #blog_page_section_one .blog_left_side .blog_img {
+    padding-top: 0.75rem;
+  }
+  #blog_page_section_one .blog_left_side .blog_img img {
+    height: unset;
+  }
+  #blog_page_section_one .blog_right_side {
+    padding-left: 45px;
+    padding-right: 15px;
+  }
+  #blog_page_section_one .text_area {
+    width: 90%;
+  }
+  #upcoming-seminars-countdown .seminar_title {
+    padding: 16px 0px;
+    font-size: 22px;
+  }
+  #upcoming-seminars-countdown .seminar-form-main {
+    margin: 15px 0px;
+  }
+  #upcoming-seminars-countdown .seminar_video {
+    height: 240px;
+    border-radius: 4px;
+  }
+  #upcoming-seminars-countdown .count_down_div .count_down_section {
+    margin-right: 20px;
+  }
+  #upcoming-seminars-countdown .count_down_div .count_down_section .time {
+    font-size: 36px;
+    height: 40px;
+  }
+  #upcoming-seminars-countdown .count_down_div .count_down_section .text {
+    font-size: 24px;
+  }
+  #upcoming-seminars-countdown .seminar_text {
+    padding: 0px 10px 0px 0px;
+  }
+  #upcoming-seminars-countdown .seminar_text h3 {
+    font-size: 24px;
+  }
+  #upcoming-seminars h3 {
+    width: 80%;
+    margin: 10px auto;
+    font-size: 24px;
+  }
+  #upcoming-seminars .next_free_seminar {
+    padding: 20px 20px;
+    padding-bottom: 0px;
+  }
+  #upcoming-seminars .next_free_seminar .seminar_date_time_div {
+    margin-top: 15px;
+    margin-left: 15px;
+    padding: 5px 0px 20px 0px;
+  }
+  #upcoming-seminars .next_free_seminar .seminar_date_time_div h4 {
+    font-size: 20px;
+  }
+  #upcoming-seminars .next_free_seminar .text_content_div_2 {
+    display: block;
+  }
+  #upcoming-seminars .next_free_seminar .text_content_div_2 .seminar_btn_div {
+    text-align: center;
+  }
+  #upcoming-seminars .next_free_seminar .text_content_div .seminar_text {
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  #upcoming-seminars .next_free_seminar .text_content_div .seminar_text p {
+    padding: unset;
+    text-align: justify;
+  }
+  #upcoming-seminars .next_free_seminar .text_content_div .seminar_btn_div {
+    display: none;
+  }
+  #upcoming-seminars .previous_free_seminar .pre_seminar_video {
+    height: 240px;
+  }
+  #about_section_one .about_div {
+    padding: 0px 1rem;
+  }
+  #about_section_one .about_div img {
+    width: 90%;
+  }
+  #about_section_one .about_div h2 {
+    margin: 10px 0px;
+  }
+  #login_section_admit {
+    padding: 30px 32px;
+  }
+  #login_section_admit h3 {
+    font-size: 22px;
+  }
+  #login_section_admit h4 {
+    font-size: 20px;
+  }
+  #login_section_admit .login_div_left {
+    width: 100%;
+  }
+  #login_section_admit .login_div_right {
+    margin-top: 10px;
+    width: 100%;
+  }
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+  #main_menu .navbar {
+    width: 100%;
+    justify-content: space-between;
+  }
+  #main_menu .navbar_2 {
+    margin-left: 0px;
+  }
+  #main_menu .nav-link-2 {
+    padding: 16px 0px;
+  }
+  #main_menu .navbar_mobile_css {
+    background-color: var(--brand_red);
+  }
+  #main_menu .navbar_mobile_css a {
+    color: white;
+    font-size: 15px;
+  }
+  #main_menu .navbar_mobile_css a:hover {
+    background-color: #0bb4da;
+  }
+  #home_section_one .main_div .left_div {
+    padding-left: 1rem;
+    padding-bottom: 15px;
+  }
+  #home_section_one .main_div .left_div h3 {
+    font-size: 24px;
+    padding-top: 20px;
+  }
+  #home_section_one .free_seminar a {
+    padding: 6px 12px;
+    border-radius: 5px;
+    font-size: 17px;
+  }
+  #subscirbe_section_div .img_div {
+    text-align: center;
+  }
+  #subscirbe_section_div .img_div img {
+    width: 80%;
+    margin: auto;
+  }
+  #subscirbe_section_div .newsletter {
+    padding-top: 0px;
+  }
+  #subscirbe_section_div .newsletter h5 {
+    font-size: 20px;
+  }
+  #subscirbe_section_div .newsletter .form_div {
+    width: 80%;
+    margin-bottom: 8px;
+  }
+  #subscirbe_section_div .newsletter .other_social_link {
+    padding: unset;
+  }
+  #subscirbe_section_div .newsletter .other_social_link div a {
+    font-size: 18px;
+  }
+  #home_section_two {
+    padding-top: 0px;
+  }
+  #main_footer .logo_div {
+    margin: unset;
+  }
+  #main_footer .footer_link_bottom .footer_link .contact_div {
+    width: 50%;
+    padding-left: 50px;
+  }
+  #main_footer .footer_link_bottom .footer_link .important_link {
+    width: 50%;
+    padding-left: 40px;
+  }
+  #main_footer .footer_link_bottom .footer_link .social_meida_link {
+    width: 50%;
+    padding-left: 50px;
+  }
+  #main_footer .footer_link_bottom .footer_link .address_div {
+    width: 50%;
+    padding-left: 40px;
+  }
+  #map {
+    width: 80%;
+    margin: 10px auto;
+  }
+  #login_section {
+    padding: 0px 40px;
+  }
+  #login_section .footer_login {
+    flex-wrap: wrap;
+  }
+  #login_section .footer_login a {
+    padding-left: 0px;
+  }
+  #contact_section_one {
+    padding: unset;
+  }
+  #contact_section_one .header_text {
+    padding-bottom: 1rem;
+  }
+  #contact_section_one h2 {
+    padding-top: 20px;
+  }
+  #contact_section_one .map_location {
+    margin-top: 15px;
+  }
+  #contact_section_one .social_link {
+    margin-top: 15px;
+  }
+  #contact_section_one .all_div {
+    height: unset;
+  }
+  #contact_section_one .contact_time {
+    margin: 20px auto;
+    width: 90%;
+  }
+  #contact_section_one .ask_question .ask_question_text {
+    margin-top: unset;
+    margin-bottom: 15px;
+    font-size: 20px;
+  }
+  #blog_page_section_one .blog_left_side {
+    padding-left: 45px;
+    padding-right: 0px;
+  }
+  #blog_page_section_one .blog_left_side .blog_img {
+    padding-top: 0.75rem;
+  }
+  #blog_page_section_one .blog_left_side .blog_img img {
+    height: unset;
+  }
+  #blog_page_section_one .blog_right_side {
+    padding-left: 45px;
+    padding-right: 15px;
+  }
+  #blog_page_section_one .text_area {
+    width: 90%;
+  }
+  #upcoming-seminars-countdown .seminar_video {
+    height: 340px;
+    border-radius: 4px;
+  }
+  #upcoming-seminars .next_free_seminar .seminar_date_time_div {
+    margin-top: 15px;
+    margin-left: 15px;
+    padding: 20px 0px;
+  }
+  #upcoming-seminars .previous_free_seminar .pre_seminar_video {
+    height: 330px;
+  }
+  #about_section_one .about_div {
+    padding: 0px 1.5rem;
+  }
+  #about_section_one .about_div img {
+    width: 80%;
+  }
+  #login_section_admit {
+    padding: 30px 50px;
+  }
+  #login_section_admit .login_div_left {
+    width: 100%;
+  }
+  #login_section_admit .login_div_right {
+    margin-top: 20px;
+    width: 100%;
+  }
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+  #main_menu .navbar {
+    width: 100%;
+    justify-content: space-between;
+  }
+  #main_menu .nav-link-2 {
+    padding: 16px 0px;
+  }
+  #main_menu .navbar_2 {
+    margin-left: 0px;
+  }
+  #main_menu .navbar_mobile_css {
+    background-color: var(--brand_red);
+  }
+  #main_menu .navbar_mobile_css a {
+    color: white;
+  }
+  #main_menu .navbar_mobile_css a:hover {
+    background-color: #0bb4da;
+  }
+  #home_section_one .main_div .left_div h3 {
+    font-size: 24px;
+  }
+  #home_section_one .free_seminar a {
+    padding: 8px 15px;
+    border-radius: 5px;
+    font-size: 17px;
+  }
+  #subscirbe_section_div .newsletter {
+    padding-top: 20px;
+  }
+  #subscirbe_section_div .newsletter h5 {
+    font-size: 16px;
+  }
+  #subscirbe_section_div .newsletter .form_div {
+    width: 80%;
+    margin-bottom: 8px;
+  }
+  #subscirbe_section_div .newsletter .other_social_link {
+    padding: unset;
+  }
+  #subscirbe_section_div .newsletter .other_social_link div a {
+    font-size: 16px;
+  }
+  #main_footer .logo_div {
+    margin: unset;
+  }
+  #main_footer .footer_link_bottom .footer_link .contact_div {
+    width: 50%;
+    padding-left: 50px;
+  }
+  #main_footer .footer_link_bottom .footer_link .important_link {
+    width: 50%;
+    padding-left: 40px;
+  }
+  #main_footer .footer_link_bottom .footer_link .social_meida_link {
+    width: 50%;
+    padding-left: 50px;
+  }
+  #main_footer .footer_link_bottom .footer_link .address_div {
+    width: 50%;
+    padding-left: 40px;
+  }
+  #contact_section_one {
+    padding: unset;
+  }
+  #contact_section_one .social_link {
+    margin-top: 15px;
+  }
+  #contact_section_one .contact_type {
+    height: unset;
+  }
+  #contact_section_one .contact_time {
+    margin: 20px auto;
+    width: 90%;
+  }
+  #contact_section_one .ask_question .ask_question_text {
+    margin-top: unset;
+    margin-bottom: 15px;
+    font-size: 20px;
+  }
+  #upcoming-seminars-countdown .seminar_video {
+    height: 340px;
+    border-radius: 4px;
+  }
+  #upcoming-seminars .next_free_seminar .seminar_date_time_div {
+    margin-top: 15px;
+    margin-left: 15px;
+    padding: 20px 0px;
+  }
+  #upcoming-seminars .previous_free_seminar .pre_seminar_video {
+    height: 330px;
+  }
+  #login_section_admit .login_div_left {
+    width: 100%;
+  }
+  #login_section_admit .login_div_right {
+    margin-top: 20px;
+    width: 100%;
+  }
+}
