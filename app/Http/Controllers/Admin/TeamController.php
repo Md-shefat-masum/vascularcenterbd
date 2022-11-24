@@ -24,7 +24,7 @@ class TeamController extends Controller
 
     public function edit(Team $team)
     {
-        return view('admin.team.edit', compact('video'));
+        return view('admin.team.edit', compact('team'));
     }
 
     public function store(Request $request)
@@ -52,7 +52,7 @@ class TeamController extends Controller
                 // book size
                 $canvas = Image::canvas(400, 400);
                 $canvas->insert($image, 'center-center');
-                $canvas->insert(Image::make(public_path('logo.png'))->resize(183)->opacity(50), 'bottom-right');
+                // $canvas->insert(Image::make(public_path('logo.png'))->resize(183)->opacity(50), 'bottom-right');
 
                 $path = 'uploads/team/team_400x400_' . $temp_name . '.' . $extension;
                 Storage::makeDirectory('uploads/team');
@@ -72,9 +72,11 @@ class TeamController extends Controller
     public function update(Request $request, Team $team)
     {
 
+        // dd($request->all());
         $team->fill([
             'name' => nl2br($request->name),
             'description' => nl2br($request->description),
+            'designation' => json_encode($request->designation),
             's_links' => json_encode($request->s_links),
         ]);
 
@@ -91,7 +93,7 @@ class TeamController extends Controller
                 // book size
                 $canvas = Image::canvas(400, 400);
                 $canvas->insert($image, 'center-center');
-                $canvas->insert(Image::make(public_path('logo.png'))->resize(183)->opacity(50), 'bottom-right');
+                // $canvas->insert(Image::make(public_path('logo.png'))->resize(183)->opacity(50), 'bottom-right');
 
                 $path = 'uploads/team/team_400x400_' . $temp_name . '.' . $extension;
                 Storage::makeDirectory('uploads/team');

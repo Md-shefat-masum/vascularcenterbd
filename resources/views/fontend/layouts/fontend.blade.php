@@ -142,11 +142,14 @@
                             <a href="/">
                                 <img style="height:65px;" src="/{{ $website_info['Logo Image'][0] }}" alt="">
                                 <h1 style="
-                                    font-size: 22px;
+                                    font-size: 26px;
                                     display: inline-block;
                                     color: #029347;
+                                    font-family: 'bangla', 'Hind', sans-serif;
+                                    font-weight: 700;
+                                    display:none;
                                 ">
-                                    Vascular Center BD
+                                    বাংলাদেশ ভাসকুলার সেন্টার
                                 </h1>
                             </a>
                         </div>
@@ -165,7 +168,7 @@
                             <div class="navbar-collapse collapse clearfix">
                                 <ul class="navigation clearfix text-right">
                                     <li><a href="/">Home</a></li>
-                                     <li><a href="/about">About Us</a></li> 
+                                     <li><a href="/about">About Us</a></li>
                                     <li><a href="/chember">Chambers</a></li>
                                     <li><a href="/blog">Articles</a></li>
                                     <li><a href="/services">Services</a></li>

@@ -14,8 +14,8 @@
                             data-mask_in="x:[100%];y:0;s:inherit;e:inherit;" data-splitin="none"
                             data-splitout="none" data-responsive_offset="on" data-start="700">
                             <div class="slide-content-box">
-                                <h1>{!! $item->banner_title !!}</h1>
-                                <p>
+                                <h1 style="font-family: 'bangla', 'Hind', sans-serif;padding-left:10px;">{!! $item->banner_title !!}</h1>
+                                <p style="font-family: 'bangla', 'Hind', sans-serif;padding-left:10px;font-size:25px;">
                                     {!! $item->banner_sub_title !!}
                                 </p>
                             </div>
@@ -48,4 +48,3 @@
         </ul>
     </div>
 </section>
-

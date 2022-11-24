@@ -197,7 +197,7 @@
         function add_designation(){
             event.preventDefault();
 
-            designation_list.innerHTML += `
+            let innerHTML = `
                 <tr>
                     <td>
                         <input type="text" required onkeyup="chage_relative_input_name(event)" value="qualification_title">
@@ -211,6 +211,8 @@
                     </td>
                 </tr>
             ` ;
+
+            $("#designation_list tbody").append(innerHTML);
         }
 
         function chage_relative_input_name(e){

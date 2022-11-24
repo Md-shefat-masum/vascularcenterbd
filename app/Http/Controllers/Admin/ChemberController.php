@@ -47,7 +47,7 @@ class ChemberController extends Controller
                 // book size
                 $canvas = Image::canvas(283, 195);
                 $canvas->insert($image, 'center-center');
-                $canvas->insert(Image::make(public_path('logo.png'))->resize(183)->opacity(50), 'bottom-right');
+                // $canvas->insert(Image::make(public_path('logo.png'))->resize(183)->opacity(50), 'bottom-right');
 
                 $path = 'uploads/chember/chember_283x195_' . $temp_name . '.' . $extension;
                 Storage::makeDirectory('uploads/chember');
@@ -84,7 +84,7 @@ class ChemberController extends Controller
                 // book size
                 $canvas = Image::canvas(283, 195);
                 $canvas->insert($image, 'center-center');
-                $canvas->insert(Image::make(public_path('logo.png'))->resize(183)->opacity(50), 'bottom-right');
+                // $canvas->insert(Image::make(public_path('logo.png'))->resize(183)->opacity(50), 'bottom-right');
 
                 $path = 'uploads/chember/chember_283x195_' . $temp_name . '.' . $extension;
                 Storage::makeDirectory('uploads/chember');

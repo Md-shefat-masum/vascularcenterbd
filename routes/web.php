@@ -51,7 +51,7 @@ Route::group([
     Route::get('/video-delete/{service}','VideoController@destroy')->name('video.destroy');
 
     Route::resource('team', 'TeamController');
-    Route::get('/team-delete/{service}','TeamController@destroy')->name('team.destroy');
+    Route::get('/team-delete/{team}','TeamController@destroy')->name('team.destroy');
 
     Route::resource('message', 'ContactMessageController');
     Route::get('/message-delete/{message}','ContactMessageController@destroy')->name('message.destroy');

@@ -99,10 +99,9 @@ class FrontendController extends Controller
         }
         $course = new WebsiteCourseInfo;
         $specility = WebsiteSpecialityInformation::all();
-        $team = Team::all();
+        $team = Team::get();
         $banner = Banner::latest()->get();
         $blogs = WebsiteBlogInfo::latest()->limit(3)->get();
-        // dd($website_data);
         return view('fontend.home', [
             'banner' => $banner,
             'about' => $website_data['About Information'][0],
